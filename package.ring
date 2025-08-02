@@ -70,7 +70,7 @@ aPackageInfo = [
 	:macosringfolderfiles = 	[
 
 	],
-	:run = "ring main.ring",
+	:run = "ring worm.ring",
 	:windowsrun = "",
 	:linuxrun = "",
 	:macosrun = "",
@@ -89,3 +89,4 @@ aPackageInfo = [
 	:ubunturemove = "",
 	:fedoraremove = ""
 ]
+
