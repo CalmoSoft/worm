@@ -21,8 +21,6 @@ aPackageInfo = [
 		]
 	],
 	:files = 	[
-		"lib.ring",
-		"main.ring",
 		"images/bomb.jpg",
 		"images/bricks.jpg",
 		"images/empty.jpg",
@@ -89,4 +87,5 @@ aPackageInfo = [
 	:ubunturemove = "",
 	:fedoraremove = ""
 ]
+
 
